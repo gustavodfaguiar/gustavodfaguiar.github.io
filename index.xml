@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Aguiar</title>
+    <link>https://gustavodfaguiar.github.io/</link>
+    <description>Recent content on Gustavo Aguiar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://gustavodfaguiar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre</title>
+      <link>https://gustavodfaguiar.github.io/about/</link>
+      <pubDate>Fri, 01 Jan 2021 21:37:58 +0530</pubDate>
+      
+      <guid>https://gustavodfaguiar.github.io/about/</guid>
+      <description>Graduado em Sistemas de Informação. Trabalho com desenvolvimento de Front-end e Back-end desde 2014. Atualmente trabalho com desenvolvimento de aplicações de alta disponibilidade em diferentes linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Primer: When You Have Too Much to Do</title>
+      <link>https://gustavodfaguiar.github.io/posts/post-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://gustavodfaguiar.github.io/posts/post-1/</guid>
+      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+It all keeps piling up, and it can feel overwhelming.
+How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+    </item>
+    
+  </channel>
+</rss>
