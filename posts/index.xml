@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gustavo Aguiar</title>
-    <link>https://gustavodfaguiar.github.io/</link>
-    <description>Recent content on Gustavo Aguiar</description>
+    <title>Posts on Gustavo Aguiar</title>
+    <link>https://gustavodfaguiar.github.io/posts/</link>
+    <description>Recent content in Posts on Gustavo Aguiar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gustavodfaguiar.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre</title>
-      <link>https://gustavodfaguiar.github.io/about/</link>
-      <pubDate>Fri, 01 Jan 2021 21:37:58 +0530</pubDate>
-      
-      <guid>https://gustavodfaguiar.github.io/about/</guid>
-      <description>Graduado em Sistemas de Informação. Trabalho com desenvolvimento de Front-end e Back-end desde 2014. Atualmente trabalho com desenvolvimento de aplicações de alta disponibilidade em diferentes linguagens de programação.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gustavodfaguiar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introdução ao TypeScript</title>
       <link>https://gustavodfaguiar.github.io/posts/2021-05-19-introducao-ao-typescript/</link>
