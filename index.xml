@@ -12,22 +12,9 @@
       <title>Sobre</title>
       <link>https://gustavodfaguiar.github.io/about/</link>
       <pubDate>Fri, 01 Jan 2021 21:37:58 +0530</pubDate>
-      
+
       <guid>https://gustavodfaguiar.github.io/about/</guid>
       <description>Graduado em Sistemas de Informação. Trabalho com desenvolvimento de Front-end e Back-end desde 2014. Atualmente trabalho com desenvolvimento de aplicações de alta disponibilidade em diferentes linguagens de programação.</description>
     </item>
-    
-    <item>
-      <title>Introdução ao TypeScript</title>
-      <link>https://gustavodfaguiar.github.io/posts/2021-05-19-introducao-ao-typescript/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://gustavodfaguiar.github.io/posts/2021-05-19-introducao-ao-typescript/</guid>
-      <description>O que é o TypeScript? O TypeScript é um superconjunto (superset) que tem como objetivo fazer o Javascript ser tipado. Desta forma facilitando o desenvolvimento, refatorações de código e correções de bugs.
-Como utilizar TypeScript? Para utilizar o TypeScript é necessário instalá-lo usando npm:
-npm install -g typescript Depois de instalar, é necessário criar um arquivo com a extensão .ts, por exemplo hello-word.ts
-let languague = &amp;#39;Javascript&amp;#39; languague = &amp;#39;Golang&amp;#39; O código acima é ES2015.</description>
-    </item>
-    
   </channel>
 </rss>
